@@ -1,0 +1,6 @@
+.cache
+.DS_Store
+*.log
+coverage
+dist
+node_modules

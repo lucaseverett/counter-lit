@@ -1,0 +1,7 @@
+@import "modern-normalize/modern-normalize.css";
+
+html,
+body {
+  height: 100%;
+  font-family: Arial;
+}
